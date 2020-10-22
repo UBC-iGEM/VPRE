@@ -1,1 +1,1 @@
-# Viral-Predictor-for-mRNA-Evolution-VPRE-
+# Viral Predictor for mRNA Evolution (VPRE)
