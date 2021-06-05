@@ -1,7 +1,9 @@
 """
 Created on Mon Aug 03 09:37:18 2020
 
-@author: Eric Ma, UBC iGEM 2020
+@author: UBC iGEM 2020
+
+Referenced Flu Forcaster constructed by Eric Ma
 """
 
 import os
