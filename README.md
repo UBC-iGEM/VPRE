@@ -8,7 +8,7 @@ Keras is used for training and using variational autoencoders, which constructs 
 
 PyMC3 is used for gaussian process regression, which allows us to model the trajectory of a value across time and extrapolate the trend into the future, thus providing a way to forecast the spike protein's evolution from the latent space. We can then decode the numbers into spike proteins to predict its future conformation.  
 
-For more information, see http://virosight.ca and email us at ubcigem@gmail.com. 
+For more information, see http://virosight.ca or contact us at ubcigem@gmail.com. 
 
 We also call for people who are interested in applying deep learning in modeling biological sequences to try the framework of VPRE for different scenarios. 
 
